@@ -1,0 +1,14 @@
+> Every class has a constructor whether its a normal one or a abstract class
+> Constructors are not methods and they dont have any return type 
+> Constructor name and class name should be the same 
+> Constructors can use any acess specifier, they can be declared as privae also 
+> Like constructors, methods can also have same name as class name , but with return type
+> If no constructor is definned within the class, compiler will do it for you and it will create a no- arg (default) constructor for you.
+> To use this() or super() inside the constructor, they should be the first statement in the constructor code 
+> Constructor overloading is possible but overriding is  nnot possible
+> Constructors cannot be inherited
+> If super class doesnot have a no- arg(default) constructor then the compiler will not create a default constructor in the child class
+> Interfaces do not have constructors
+> Abstract class can have constructors and those will get invoked when a class, ehicj extends the abstrct class, gets instantiated.
+> A constructor can also invoke another constructor of the  same class, by using this().
+> If you want to invoke a arg-constructor then use, this(parameter-list).

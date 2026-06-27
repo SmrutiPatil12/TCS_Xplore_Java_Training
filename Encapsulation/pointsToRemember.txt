@@ -1,0 +1,6 @@
+> In java, Encapsulation is a mechanism od wrappinf the data(variables) and code acting on the data(methods) together as a single unit.
+> Variables of a class will be hidden from other classes, and can be accesed only through the methods of their current class is called data hiding.
+> To achieve encapsulation in java:
+    - declare the  variable of a class as private
+    - provide public setter and getter methods to modify and view the variables values
+    
