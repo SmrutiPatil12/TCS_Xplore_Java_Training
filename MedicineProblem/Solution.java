@@ -43,7 +43,7 @@ public class Solution {
             Arrays.sort(arr2);
             return arr2;
         } 
-        return null;
+        else return null;
     }
 }
 class Medicine{
